@@ -1,0 +1,42 @@
+#par1{
+  height:100px;
+  width:400px;
+  font-family: 'Dancing Script', cursive;
+  background-color:khaki;
+  color:darkred;
+  border-left:3px solid brown;
+  border-right:3px solid brown;
+  border-radius: 10px;
+  font-weight: bold;
+  font-size: 20px ;
+  background-image:url(https://as2.ftcdn.net/v2/jpg/01/04/31/09/1000_F_104310919_Gr6IZNHHFVHYKcLSF4Dt6jje8fH4jdKq.jpg) ;
+  padding:30px;
+  margin:20px;
+}
+#par2{
+  font-family: 'Dancing Script', cursive;
+  background-color:aliceblue;
+  color:darkred;
+  border-top:  solid brown;
+  border-bottom:solid brown;
+  border-radius: 10px;
+  font-weight: bold;
+  font-size: 20px ;
+  background-image: url(https://as1.ftcdn.net/v2/jpg/02/53/24/10/1000_F_253241063_BwEf8zHpXmEsrXInPdgVyJsU7qzAc4td.jpg);
+  padding:40px;
+  margin:30px;
+
+}
+#par3{
+  font-family: 'Dancing Script', cursive;
+  background-color:antiquewhite;
+  color:black;
+  border:3px solid black;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  font-weight: bold;
+  font-size: 20px ;
+  background-image: url(https://c4.wallpaperflare.com/wallpaper/838/983/584/surface-light-shade-wallpaper-preview.jpg);
+  padding:30px;
+  margin:30px;
+}
